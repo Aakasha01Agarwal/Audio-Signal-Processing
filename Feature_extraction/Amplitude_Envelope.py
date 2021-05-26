@@ -1,3 +1,4 @@
+''' I used the song Night We Met by Lord Huron so the variables are named accordingly'''
 import numpy as np
 import librosa
 import librosa.display
