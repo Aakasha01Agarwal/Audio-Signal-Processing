@@ -4,7 +4,7 @@ import librosa.display
 import matplotlib.pyplot as plt
 import numpy as np
 
-night_we_met_file = 'C:/Users/aakka/OneDrive/Desktop/Lord Huron - The Night We Met.wav'
+night_we_met_file = '//PATH OF THE .WAV FILE '
 night_we_met, sr = librosa.load(night_we_met_file)
 
 # Extracting Short Time Fourier Transform
